@@ -1,0 +1,18 @@
+{
+    "database_config":{
+        "host": "",
+        "user": "",
+        "password": "",
+        "port": 3306,
+        "database": ""
+    },
+    "casinocoin": {
+        "websocket_endpoint": "wss://wst01.casinocoin.org:4443",
+        "source_account": "",
+        "source_secret": "",
+        "destination_account": "",
+        "issuer_account": "",
+        "currency": "",
+        "amount": ""
+    }
+}
